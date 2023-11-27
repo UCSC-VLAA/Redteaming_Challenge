@@ -1,4 +1,4 @@
-# Readteaming Challenge
+# Redteaming Challenge
 
 This is the submitted version of Trojan Detection Challenge 2023 - Red Teaming Track (Base/Large Model Subtrack)
 
