@@ -36,6 +36,8 @@ config.tokenizer_paths = [
 First, place the behaviors file `behaviors.json`, which contains a list of undesirable behaviors you want to elicit, under the specific folder `data/behavior/`
 
 Other preparations can be finished by running the following command at the folder `prepare`. If you want to attack llama2-caht-7b, then `subtrack` is `base`. If you want to attack llama2-caht-13b, then `subtrack` is `large`.
+
+**Note**: We need `Llama-2-7b-hf` to automatically generate targers used in our method, so you need to prepare your huggingface token.
 ```bash
 cd prepare
 bash prepare.sh $subtrack
