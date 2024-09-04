@@ -1,5 +1,7 @@
 # Redteaming Challenge
 
+[News] **Second Place** in both base & large model subtracks of Red Teaming LLM@**NeurIPS 2023, Torjan Detection Challenge**
+
 This is the submitted version of Trojan Detection Challenge 2023 - Red Teaming Track (Base/Large Model Subtrack)
 
 ## Table of Contents
